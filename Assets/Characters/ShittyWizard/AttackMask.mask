@@ -1,0 +1,120 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!319 &31900000
+AvatarMask:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: AttackMask
+  m_Mask: 00000000010000000000000000000000000000000100000001000000010000000100000000000000000000000000000000000000
+  m_Elements:
+  - m_Path: 
+    m_Weight: 1
+  - m_Path: Armature
+    m_Weight: 0
+  - m_Path: Armature/Root
+    m_Weight: 0
+  - m_Path: Armature/Root/Leg_upper_L
+    m_Weight: 0
+  - m_Path: Armature/Root/Leg_upper_L/Leg_lower_L
+    m_Weight: 0
+  - m_Path: Armature/Root/Leg_upper_L/Leg_lower_L/Foot_upper_L
+    m_Weight: 0
+  - m_Path: Armature/Root/Leg_upper_L/Leg_lower_L/Foot_upper_L/Foot_lower_L
+    m_Weight: 0
+  - m_Path: Armature/Root/Leg_upper_R
+    m_Weight: 0
+  - m_Path: Armature/Root/Leg_upper_R/Leg_lower_R
+    m_Weight: 0
+  - m_Path: Armature/Root/Leg_upper_R/Leg_lower_R/Foot_upper_R
+    m_Weight: 0
+  - m_Path: Armature/Root/Leg_upper_R/Leg_lower_R/Foot_upper_R/Foot_lower_R
+    m_Weight: 0
+  - m_Path: Armature/Root/Stomach
+    m_Weight: 0
+  - m_Path: Armature/Root/Stomach/Chest
+    m_Weight: 1
+  - m_Path: Armature/Root/Stomach/Chest/Neck
+    m_Weight: 1
+  - m_Path: Armature/Root/Stomach/Chest/Neck/Head
+    m_Weight: 1
+  - m_Path: Armature/Root/Stomach/Chest/Shoulder_L
+    m_Weight: 1
+  - m_Path: Armature/Root/Stomach/Chest/Shoulder_L/Hand_upper_L
+    m_Weight: 1
+  - m_Path: Armature/Root/Stomach/Chest/Shoulder_L/Hand_upper_L/Hand_lower_L
+    m_Weight: 1
+  - m_Path: Armature/Root/Stomach/Chest/Shoulder_L/Hand_upper_L/Hand_lower_L/Wrist_L
+    m_Weight: 1
+  - m_Path: Armature/Root/Stomach/Chest/Shoulder_L/Hand_upper_L/Hand_lower_L/Wrist_L/Index_knucle_L
+    m_Weight: 1
+  - m_Path: Armature/Root/Stomach/Chest/Shoulder_L/Hand_upper_L/Hand_lower_L/Wrist_L/Index_knucle_L/Index_upper_L
+    m_Weight: 1
+  - m_Path: Armature/Root/Stomach/Chest/Shoulder_L/Hand_upper_L/Hand_lower_L/Wrist_L/Index_knucle_L/Index_upper_L/Index_lower_L
+    m_Weight: 1
+  - m_Path: Armature/Root/Stomach/Chest/Shoulder_L/Hand_upper_L/Hand_lower_L/Wrist_L/Little_knuckle_L
+    m_Weight: 1
+  - m_Path: Armature/Root/Stomach/Chest/Shoulder_L/Hand_upper_L/Hand_lower_L/Wrist_L/Little_knuckle_L/Little_upper_L
+    m_Weight: 1
+  - m_Path: Armature/Root/Stomach/Chest/Shoulder_L/Hand_upper_L/Hand_lower_L/Wrist_L/Little_knuckle_L/Little_upper_L/Little_lower_L
+    m_Weight: 1
+  - m_Path: Armature/Root/Stomach/Chest/Shoulder_L/Hand_upper_L/Hand_lower_L/Wrist_L/Middle_knuckle_L
+    m_Weight: 1
+  - m_Path: Armature/Root/Stomach/Chest/Shoulder_L/Hand_upper_L/Hand_lower_L/Wrist_L/Middle_knuckle_L/Middle_upper_L
+    m_Weight: 1
+  - m_Path: Armature/Root/Stomach/Chest/Shoulder_L/Hand_upper_L/Hand_lower_L/Wrist_L/Middle_knuckle_L/Middle_upper_L/Middle_lower_L
+    m_Weight: 1
+  - m_Path: Armature/Root/Stomach/Chest/Shoulder_L/Hand_upper_L/Hand_lower_L/Wrist_L/Ring_knuckle_L
+    m_Weight: 1
+  - m_Path: Armature/Root/Stomach/Chest/Shoulder_L/Hand_upper_L/Hand_lower_L/Wrist_L/Ring_knuckle_L/Ring_upper_L
+    m_Weight: 1
+  - m_Path: Armature/Root/Stomach/Chest/Shoulder_L/Hand_upper_L/Hand_lower_L/Wrist_L/Ring_knuckle_L/Ring_upper_L/Ring_lower_L
+    m_Weight: 1
+  - m_Path: Armature/Root/Stomach/Chest/Shoulder_L/Hand_upper_L/Hand_lower_L/Wrist_L/Thumb_knucle_L
+    m_Weight: 1
+  - m_Path: Armature/Root/Stomach/Chest/Shoulder_L/Hand_upper_L/Hand_lower_L/Wrist_L/Thumb_knucle_L/Thumb_upper_L
+    m_Weight: 1
+  - m_Path: Armature/Root/Stomach/Chest/Shoulder_L/Hand_upper_L/Hand_lower_L/Wrist_L/Thumb_knucle_L/Thumb_upper_L/Thumb_lower_L
+    m_Weight: 1
+  - m_Path: Armature/Root/Stomach/Chest/Shoulder_R
+    m_Weight: 1
+  - m_Path: Armature/Root/Stomach/Chest/Shoulder_R/Hand_upper_R
+    m_Weight: 1
+  - m_Path: Armature/Root/Stomach/Chest/Shoulder_R/Hand_upper_R/Hand_lower_R
+    m_Weight: 1
+  - m_Path: Armature/Root/Stomach/Chest/Shoulder_R/Hand_upper_R/Hand_lower_R/Wrist_R
+    m_Weight: 1
+  - m_Path: Armature/Root/Stomach/Chest/Shoulder_R/Hand_upper_R/Hand_lower_R/Wrist_R/Index_knucle_R
+    m_Weight: 1
+  - m_Path: Armature/Root/Stomach/Chest/Shoulder_R/Hand_upper_R/Hand_lower_R/Wrist_R/Index_knucle_R/Index_upper_R
+    m_Weight: 1
+  - m_Path: Armature/Root/Stomach/Chest/Shoulder_R/Hand_upper_R/Hand_lower_R/Wrist_R/Index_knucle_R/Index_upper_R/Index_lower_R
+    m_Weight: 1
+  - m_Path: Armature/Root/Stomach/Chest/Shoulder_R/Hand_upper_R/Hand_lower_R/Wrist_R/Little_knuckle_R
+    m_Weight: 1
+  - m_Path: Armature/Root/Stomach/Chest/Shoulder_R/Hand_upper_R/Hand_lower_R/Wrist_R/Little_knuckle_R/Little_upper_R
+    m_Weight: 1
+  - m_Path: Armature/Root/Stomach/Chest/Shoulder_R/Hand_upper_R/Hand_lower_R/Wrist_R/Little_knuckle_R/Little_upper_R/Little_lower_R
+    m_Weight: 1
+  - m_Path: Armature/Root/Stomach/Chest/Shoulder_R/Hand_upper_R/Hand_lower_R/Wrist_R/Middle_knuckle_R
+    m_Weight: 1
+  - m_Path: Armature/Root/Stomach/Chest/Shoulder_R/Hand_upper_R/Hand_lower_R/Wrist_R/Middle_knuckle_R/Middle_upper_R
+    m_Weight: 1
+  - m_Path: Armature/Root/Stomach/Chest/Shoulder_R/Hand_upper_R/Hand_lower_R/Wrist_R/Middle_knuckle_R/Middle_upper_R/Middle_lower_R
+    m_Weight: 1
+  - m_Path: Armature/Root/Stomach/Chest/Shoulder_R/Hand_upper_R/Hand_lower_R/Wrist_R/Ring_knuckle_R
+    m_Weight: 1
+  - m_Path: Armature/Root/Stomach/Chest/Shoulder_R/Hand_upper_R/Hand_lower_R/Wrist_R/Ring_knuckle_R/Ring_upper_R
+    m_Weight: 1
+  - m_Path: Armature/Root/Stomach/Chest/Shoulder_R/Hand_upper_R/Hand_lower_R/Wrist_R/Ring_knuckle_R/Ring_upper_R/Ring_lower_R
+    m_Weight: 1
+  - m_Path: Armature/Root/Stomach/Chest/Shoulder_R/Hand_upper_R/Hand_lower_R/Wrist_R/Thumb_knucle_R
+    m_Weight: 1
+  - m_Path: Armature/Root/Stomach/Chest/Shoulder_R/Hand_upper_R/Hand_lower_R/Wrist_R/Thumb_knucle_R/Thumb_upper_R
+    m_Weight: 1
+  - m_Path: Armature/Root/Stomach/Chest/Shoulder_R/Hand_upper_R/Hand_lower_R/Wrist_R/Thumb_knucle_R/Thumb_upper_R/Thumb_lower_R
+    m_Weight: 1
+  - m_Path: character
+    m_Weight: 1
+  - m_Path: character_002
+    m_Weight: 1
